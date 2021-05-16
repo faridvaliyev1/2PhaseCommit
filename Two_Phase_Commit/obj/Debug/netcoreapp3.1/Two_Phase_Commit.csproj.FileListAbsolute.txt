@@ -1,0 +1,15 @@
+C:\Users\Farid\source\repos\Two_Phase_Commit\Two_Phase_Commit\obj\Debug\netcoreapp3.1\Two_Phase_Commit.csprojAssemblyReference.cache
+C:\Users\Farid\source\repos\Two_Phase_Commit\Two_Phase_Commit\obj\Debug\netcoreapp3.1\Two_Phase_Commit.AssemblyInfoInputs.cache
+C:\Users\Farid\source\repos\Two_Phase_Commit\Two_Phase_Commit\obj\Debug\netcoreapp3.1\Two_Phase_Commit.AssemblyInfo.cs
+C:\Users\Farid\source\repos\Two_Phase_Commit\Two_Phase_Commit\obj\Debug\netcoreapp3.1\Two_Phase_Commit.csproj.CoreCompileInputs.cache
+C:\Users\Farid\source\repos\Two_Phase_Commit\Two_Phase_Commit\bin\Debug\netcoreapp3.1\Two_Phase_Commit.exe
+C:\Users\Farid\source\repos\Two_Phase_Commit\Two_Phase_Commit\bin\Debug\netcoreapp3.1\Program.cs
+C:\Users\Farid\source\repos\Two_Phase_Commit\Two_Phase_Commit\bin\Debug\netcoreapp3.1\Two_Phase_Commit.deps.json
+C:\Users\Farid\source\repos\Two_Phase_Commit\Two_Phase_Commit\bin\Debug\netcoreapp3.1\Two_Phase_Commit.runtimeconfig.json
+C:\Users\Farid\source\repos\Two_Phase_Commit\Two_Phase_Commit\bin\Debug\netcoreapp3.1\Two_Phase_Commit.runtimeconfig.dev.json
+C:\Users\Farid\source\repos\Two_Phase_Commit\Two_Phase_Commit\bin\Debug\netcoreapp3.1\Two_Phase_Commit.dll
+C:\Users\Farid\source\repos\Two_Phase_Commit\Two_Phase_Commit\bin\Debug\netcoreapp3.1\Two_Phase_Commit.pdb
+C:\Users\Farid\source\repos\Two_Phase_Commit\Two_Phase_Commit\obj\Debug\netcoreapp3.1\Two_Phase_Commit.dll
+C:\Users\Farid\source\repos\Two_Phase_Commit\Two_Phase_Commit\obj\Debug\netcoreapp3.1\Two_Phase_Commit.pdb
+C:\Users\Farid\source\repos\Two_Phase_Commit\Two_Phase_Commit\obj\Debug\netcoreapp3.1\Two_Phase_Commit.genruntimeconfig.cache
+C:\Users\Farid\source\repos\Two_Phase_Commit\Two_Phase_Commit\bin\Debug\netcoreapp3.1\2PC.txt
